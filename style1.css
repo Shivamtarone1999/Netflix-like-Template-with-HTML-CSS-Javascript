@@ -1,0 +1,142 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-repeat: no-repeat;
+	position: cover;
+	height: auto;
+    
+}
+
+.header{
+	background-color: black;
+	height: 70px;
+
+}
+.logo{
+	color: white;
+	text-decoration: none;
+	padding-top: 8px;
+		
+}
+.logo li{
+	padding-top: 5px;
+}
+
+.search{
+ float: left;
+ padding-left: 20px;
+padding-top: 20px;
+
+    
+}
+.search input{
+	color: black;
+	font-weight: bold;
+    background-color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 20px;
+    height: 5vh;
+    text-align: center;
+
+}
+
+.go{
+       width: 50px;
+       padding-left: 5px;
+       padding-top: 5px;
+       padding: 20px;
+}
+.go input{
+	border-radius: 15px;
+    font-size: 20px;
+	background-color: lightgreen;
+	height: 3.5vh;
+	width: 60px;
+	color: black;
+	padding-bottom: 20px;
+}
+.go:hover{
+	cursor: pointer;
+}
+
+
+
+.series{
+    margin: 1px solid #ffffff;
+
+}
+
+.footer{
+	height: 30vh;
+}
+
+.Series item1 a img :hover{
+	opacity: 0.5
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
